@@ -12,10 +12,6 @@ export const config = {
 
 function App() {
   return (
-    // <div className="App">
-    //     <Register />
-    // </div>
-    // {/* TODO: CRIO_TASK_MODULE_LOGIN - To add configure routes and their mapping */}
     <div className="App">
       <Switch>
         <Route  path="/register">
