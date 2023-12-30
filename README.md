@@ -12,8 +12,6 @@ During this project:
 - Utilized REST APIs to dynamically load and render data served by the backend server.
 - Deployed website to Netlify/Vercel.
 
-![QKart Image](insert_image_url_here)
-
 ## QKart Component Architecture
 ![QKart Component Architecture](https://github.com/RutikKulkarni/QKart/assets/86470947/79950052-bd2c-46a4-b789-0f9a0a21b676)
 
