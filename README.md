@@ -1,6 +1,6 @@
 # QKart
 
-- **QKart Website:** [QKart](https://qkart-frontend-beryl.vercel.app/)
+- **QKart Website:** [QKart](https://qkart-frontend-rose.vercel.app/)
 - **Backend API URL:** [QKart Backend](https://qkart-frontend-bup8.onrender.com/)
 
 ## Overview
